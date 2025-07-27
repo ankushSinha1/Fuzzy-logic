@@ -1,0 +1,65 @@
+Sno,Name,Address,Mobile,Pan,Adhaar,CKYC,as per rule 
+1,same, same, same, same, same, same,to be considered
+2,same, same, same, same, same, Diff,to be considered
+3,same, same, same, same, Diff, same,to be considered
+4,same, same, same, same, Diff, Diff,to be considered
+5,same, same, same, Diff, same, same,to be considered
+6,same, same, same, Diff, same, Diff,to be considered
+7,same, same, same, Diff, Diff, same,to be considered
+8,same, same, same, Diff, Diff, Diff,to be considered
+9,same, same, Diff, same, same, same,to be considered
+10,same, same, Diff, same, same, Diff,to be considered
+11,same, same, Diff, same, Diff, same,to be considered
+12,same, same, Diff, same, Diff, Diff,to be considered
+13,same, same, Diff, Diff, same, same,to be considered
+14,same, same, Diff, Diff, same, Diff,to be considered
+15,same, same, Diff, Diff, Diff, same,to be considered
+16,same, same, Diff, Diff, Diff, Diff,to be considered
+17,same, Diff, same, same, same, same,to be considered
+18,same, Diff, same, same, same, Diff,to be considered
+19,same, Diff, same, same, Diff, same,to be considered
+20,same, Diff, same, same, Diff, Diff,to be considered
+21,same, Diff, same, Diff, same, same,to be considered
+22,same, Diff, same, Diff, same, Diff,to be considered
+23,same, Diff, same, Diff, Diff, same,to be considered
+24,same, Diff, same, Diff, Diff, Diff,to be considered
+25,same, Diff, Diff, same, same, same,not to be considered
+26,same, Diff, Diff, same, same, Diff,not to be considered
+27,same, Diff, Diff, same, Diff, same,not to be considered
+28,same, Diff, Diff, same, Diff, Diff,not to be considered
+29,same, Diff, Diff, Diff, same, same,not to be considered
+30,same, Diff, Diff, Diff, same, Diff,not to be considered
+31,same, Diff, Diff, Diff, Diff, same,not to be considered
+32,same, Diff, Diff, Diff, Diff, Diff,not to be considered
+33,Diff, same, same, same, same, same,to be considered
+34,Diff, same, same, same, same, Diff,to be considered
+35,Diff, same, same, same, Diff, same,to be considered
+36,Diff, same, same, same, Diff, Diff,to be considered
+37,Diff, same, same, Diff, same, same,to be considered
+38,Diff, same, same, Diff, same, Diff,to be considered
+39,Diff, same, same, Diff, Diff, same,to be considered
+40,Diff, same, same, Diff, Diff, Diff,to be considered
+41,Diff, same, Diff, same, same, same,not to be considered
+42,Diff, same, Diff, same, same, Diff,not to be considered
+43,Diff, same, Diff, same, Diff, same,not to be considered
+44,Diff, same, Diff, same, Diff, Diff,not to be considered
+45,Diff, same, Diff, Diff, same, same,not to be considered
+46,Diff, same, Diff, Diff, same, Diff,not to be considered
+47,Diff, same, Diff, Diff, Diff, same,not to be considered
+48,Diff, same, Diff, Diff, Diff, Diff,not to be considered
+49,Diff, Diff, same, same, same, same,to be considered
+50,Diff, Diff, same, same, same, Diff,to be considered
+51,Diff, Diff, same, same, Diff, same,to be considered
+52,Diff, Diff, same, same, Diff, Diff,to be considered
+53,Diff, Diff, same, Diff, same, same,to be considered
+54,Diff, Diff, same, Diff, same, Diff,to be considered
+55,Diff, Diff, same, Diff, Diff, same,to be considered
+56,Diff, Diff, same, Diff, Diff, Diff,to be considered
+57,Diff, Diff, Diff, same, same, same,not to be considered
+58,Diff, Diff, Diff, same, same, Diff,not to be considered
+59,Diff, Diff, Diff, same, Diff, same,not to be considered
+60,Diff, Diff, Diff, same, Diff, Diff,not to be considered
+61,Diff, Diff, Diff, Diff, same, same,not to be considered
+62,Diff, Diff, Diff, Diff, same, Diff,not to be considered
+63,Diff, Diff, Diff, Diff, Diff, same,not to be considered
+64,Diff, Diff, Diff, Diff, Diff, Diff,not to be considered
